@@ -12,7 +12,7 @@
 
 ---
 
-### ⭢ Oi! Sobre mim, dá ma olhada aí:
+### ⭢ Oi! Sobre mim, dá uma olhada aí:
 
 Desenvolvedor apaixonado por **IA** e automação. Tenho criado soluções inteligentes que resolvem problemas reais usando tecnologias moderna, especialmente via agentes. Todos os projetos são aplicados na @ EficienTI.
 
