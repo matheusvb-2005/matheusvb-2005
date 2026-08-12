@@ -12,19 +12,3 @@
 
 ---
 
-### ⭢ Oi! Sobre mim, dá uma olhada aí:
-
-Desenvolvedor apaixonado por **IA** e automação. Tenho criado soluções inteligentes que resolvem problemas reais usando tecnologias moderna, especialmente via agentes. Todos os projetos são aplicados na @ EficienTI.
-
-
-### (!) Atualmente
-
-1. Desenvolvendo **soluções de IA** para automação e eficiência, bem como chatbots com o intuito de auxílio;  
-2. Explorando **Machine Learning** aplicado a problemas reais;
-3. Especialização - Microsoft Copilot Studio.
-
----
-
-<div align="center">
-- Sempre aberto para conversar sobre IA, desenvolvimento e tecnologia. Sinta-se livre para entrar em contato comigo via e-mail por matheus.bichara@eficienti.com.br ou matheus.bichara@icloud.com
-</div>
