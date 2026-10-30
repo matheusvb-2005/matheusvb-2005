@@ -1,7 +1,7 @@
 <h1 align="center">Matheus Bichara</h1>
 
 <p align="center">
-  <b>Desenvolvedor Júnior | Aplicações reais com IA na @ EficienTI</b>
+  <b>cs undergrad, full stack jr. dev | shipping AI stuff @ EficienTI</b>
 </p>
 
 <p align="center">
